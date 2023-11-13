@@ -1,9 +1,8 @@
 ﻿# HCI-industry-project
 ## Technical MVP
-  - ArUco Marker Creation Detection
+  - ArUco Marker Creation and Detection with OpenCV library
   - The co-pilot first indicates the position on a display (according to the chess/battleship principle A3, Cx, ... )
-  - The modules are placed manually
-  - Positioning by the team at the table is tracked by a camera sending feedback to the co-pilot
+  - Manual positioning of the blocks by the team -> table is tracked by a camera sending feedback to the co-pilot
 ## Setup development environment (OpenCV in Visual Studio)
 - Follow [this](https://subwaymatch.medium.com/adding-opencv-4-2-0-to-visual-studio-2019-project-in-windows-using-pre-built-binaries-93a851ed6141) tutorial
 ### Possible problems
