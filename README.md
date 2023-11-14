@@ -8,3 +8,5 @@
 ### Possible problems
 If there is a problem with the opencv_world420d.dll file, proceed as follows:
 - From your opencv installation folder (e.g. here: "C:\opencv\build\x64\vc15\bin\opencv_world420d.dll”) copy the file and paste it into the Debug folder of your project: ModelTable\x64\Debug where the ModelTable.exe file should be
+## ArUco Marker creation
+For the creation of aruco markers there are a lot of free online tools available. For this project we use the [ArUco marker sheet generator](https://fodi.github.io/arucosheetgen/).
