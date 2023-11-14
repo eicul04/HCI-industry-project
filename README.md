@@ -1,4 +1,4 @@
-﻿# HCI Industry project: Haptic factory model table
+﻿# HCI Industry project: Haptic factory planning model table
 ## Technical MVP
   - [ArUco Marker Creation and Detection with OpenCV library](https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html)
   - The co-pilot first indicates the position on a display (according to the chess/battleship principle A3, Cx, ... )
