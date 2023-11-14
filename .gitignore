@@ -1,4 +1,4 @@
 opencv/
 ModelTable/.vs
-ModelTable/x64/
-ModelTable/ModelTable/
+ModelTable/x64
+ModelTable/ModelTable/x64
