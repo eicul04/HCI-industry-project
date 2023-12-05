@@ -21,9 +21,15 @@
     <ClCompile Include="..\imageGenerationTest.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
+    <ClCompile Include="..\arUcoMarkerDetection.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\imageGenerationTest.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="..\arUcoMarkerDetection.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
   </ItemGroup>

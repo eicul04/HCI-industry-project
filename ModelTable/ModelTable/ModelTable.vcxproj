@@ -132,10 +132,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\arUcoMarkerDetection.cpp" />
     <ClCompile Include="..\imageGenerationTest.cpp" />
     <ClCompile Include="modelTable.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\arUcoMarkerDetection.h" />
     <ClInclude Include="..\imageGenerationTest.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
