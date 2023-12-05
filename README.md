@@ -9,7 +9,8 @@
 ### CircuitPython
 CircuitPython is a programming language designed to simplify experimenting and learning to program on low-cost microcontroller boards.
 Circuitpython offers a [library](https://docs.circuitpython.org/en/latest/shared-bindings/qrio/index.html) for QR Code reading. 
-- Installation of CircuitPython for M5Stack Core2 [here](https://circuitpython.org/board/m5stack_core2/)
+- Download bin-file for CircuitPython for M5Stack Core2 [here](https://circuitpython.org/board/m5stack_core2/)
+- Installation guide for Circuit Python for M5Stack Core2 [here](https://learn.adafruit.com/welcome-to-circuitpython/non-uf2-installation)
 - [Guide](https://learn.adafruit.com/scan-qr-codes-with-circuitpython) for scanning QR Codes with CircuitPython
 - [Guide](https://learn.adafruit.com/scan-qr-codes-with-circuitpython/scan-to-usb-hid) to Scan To USB HID
 ## Setup development environment (OpenCV in Visual Studio)
