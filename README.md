@@ -7,6 +7,7 @@
 ### UIFlow for M5Stack Core2
 - [Setup Guide](https://docs.m5stack.com/en/quick_start/core2/uiflow)
 ### CircuitPython
+CircuitPython is a programming language designed to simplify experimenting and learning to program on low-cost microcontroller boards.
 Circuitpython offers a [library](https://docs.circuitpython.org/en/latest/shared-bindings/qrio/index.html) for QR Code reading. 
 - Installation of CircuitPython for M5Stack Core2 [here](https://circuitpython.org/board/m5stack_core2/)
 - [Guide](https://learn.adafruit.com/scan-qr-codes-with-circuitpython) for scanning QR Codes with CircuitPython
@@ -16,5 +17,5 @@ Circuitpython offers a [library](https://docs.circuitpython.org/en/latest/shared
 ### Possible problems
 If there is a problem with the opencv_world420d.dll file, proceed as follows:
 - From your opencv installation folder (e.g. here: "C:\opencv\build\x64\vc15\bin\opencv_world420d.dll”) copy the file and paste it into the Debug folder of your project: ModelTable\x64\Debug where the ModelTable.exe file should be
-## ArUco Marker creation
+### ArUco Marker creation
 For the creation of aruco markers there are a lot of free online tools available. For this project we use the [ArUco marker sheet generator](https://fodi.github.io/arucosheetgen/).
