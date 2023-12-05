@@ -3,6 +3,14 @@
   - [ArUco Marker Creation and Detection with OpenCV library](https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html)
   - The co-pilot first indicates the position on a display (according to the chess/battleship principle A3, Cx, ... )
   - Manual positioning of the blocks by the team -> table is tracked by a camera sending feedback to the co-pilot
+## Setup development environment (UIFlow)
+### UIFlow for M5Stack Core2
+- [Setup Guide](https://docs.m5stack.com/en/quick_start/core2/uiflow)
+### CircuitPython
+Circuitpython offers a [library](https://docs.circuitpython.org/en/latest/shared-bindings/qrio/index.html) for QR Code reading. 
+- Installation of CircuitPython for M5Stack Core2 [here](https://circuitpython.org/board/m5stack_core2/)
+- [Guide](https://learn.adafruit.com/scan-qr-codes-with-circuitpython) for scanning QR Codes with CircuitPython
+- [Guide](https://learn.adafruit.com/scan-qr-codes-with-circuitpython/scan-to-usb-hid) to Scan To USB HID
 ## Setup development environment (OpenCV in Visual Studio)
 - Follow [this](https://subwaymatch.medium.com/adding-opencv-4-2-0-to-visual-studio-2019-project-in-windows-using-pre-built-binaries-93a851ed6141) tutorial
 ### Possible problems
