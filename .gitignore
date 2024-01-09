@@ -2,3 +2,5 @@ opencv/
 ModelTable/.vs
 ModelTable/x64
 ModelTable/ModelTable/x64
+ServerCommunication/.idea
+ServerCommunication/node_modules
