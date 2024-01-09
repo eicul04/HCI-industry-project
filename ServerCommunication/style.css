@@ -1,0 +1,25 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h1, h2 {
+    color: #343a40;
+}
+
+b {
+    color: #495057;
+}
+
+#copilotSuggestionBlock {
+    font-size: 24px;
+}
+
+#copilotSuggestion {
+    color: #ec7804;
+    font-weight: bold;
+}
+
+#validationResult {
+    color: #6c757d;
+    font-size: 24px;
+}
